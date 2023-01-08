@@ -1,4 +1,6 @@
-### Hi there, I'm Stan 👋
+<img src="https://github.com/stanbuklovskyi/stanbuklovskyi/blob/a86a699f810c2df0462bd1d97bddb0b0cc0fc375/icons/deus_x.gif">
+
+# Stan Buklovskyi 👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=stanbuklovskyi&show_icons=true&theme=tokyonight">
 
