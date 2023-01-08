@@ -9,6 +9,7 @@ Mechanical Engineer | Data Science | Machine Learning | Research
 ### Languages and Tools:
 <a href="https://www.python.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="max-width: 100%;" width="40" height="40"></a>
 <a href="https://www.tensorflow.org/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/TensorFlow-Dark.svg" style="max-width: 100%;" width="40" height="40"></a>
+<a href="https://scikit-learn.org/stable/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="max-width: 100%;" width="40" height="40"></a>
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/VSCode-Dark.svg" style="max-width: 100%;" width="40" height="40"></a>
 <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/AWS-Dark.svg" style="max-width: 100%;" width="40" height="40"></a>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg" style="max-width: 100%;" width="40" height="40"></a>
@@ -20,6 +21,8 @@ Mechanical Engineer | Data Science | Machine Learning | Research
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stas.buklovskiy@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buklovskyi/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/buklovskyi)
+
+src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
 
 [python]: https://www.python.org/
 [Tensforflow]: https://www.tensorflow.org/
